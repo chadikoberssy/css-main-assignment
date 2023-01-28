@@ -1,0 +1,32 @@
+.topnav {
+  overflow: hidden;
+  background-color: #1f2937;
+  padding: 20px 0;
+}
+
+.navbar-logo {
+  float: left;
+}
+
+.navbar-logo h2 {
+  float: left;
+  text-align: center;
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.navbar-menu {
+  float: right;
+}
+
+.navbar-menu a {
+  color: #e5e7eb;
+  margin-left: 35px;
+  vertical-align: middle;
+  transition: all 300ms;
+}
+
+.navbar-menu a:hover {
+  color: #3882f6;
+}
